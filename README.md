@@ -47,7 +47,3 @@ To debug this application using VSCode.
 2. Open `cmsSettings.xml` and adjust the `localLibrary` setting to be `/workspaces/vscode/build/bin/library`.
 3. Open the application directory using the remote containers plugin.
 4. Go to the aplication debug extesion at left panel and click on the green play button.
-
-Tutorial video: https://user-images.githubusercontent.com/6628028/162645464-5eadcb2b-a53a-450e-805f-9589fba6f8f0.mp4
-
-[Issue 260](https://github.com/Hostmaresignage/Hostmare-linux/issues/260) will improve steps 1 and 2 so that the options app can be used.
