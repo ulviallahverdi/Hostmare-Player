@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=Xibo Player Options
-Comment=Xibo Player Options
+Name=Hostmare Player Options
+Comment=Hostmare Player Options
 Exec=xibo-player.options
 Terminal=false
-Icon=${SNAP}/meta/gui/xibo-player.png
+Icon=${SNAP}/meta/gui/hostmare-player.png
