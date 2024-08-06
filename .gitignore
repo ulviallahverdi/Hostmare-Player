@@ -1,0 +1,14 @@
+*.autosave
+*.txt.user
+xibo-*.snap*
+gcov
+build*
+root
+pch.py
+*.json
+commits_config
+snapcraft.login
+.history
+third_party
+*.swp
+exported.txt
