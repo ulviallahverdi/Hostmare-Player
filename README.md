@@ -1,5 +1,4 @@
 # Hostmare for Linux
-[![Hostmare-player](https://snapcraft.io/Hostmare-player/badge.svg)](https://snapcraft.io/Hostmare-player)
 
 Hostmare for Linux is a Digital Signage Player for [Hostmare](https://Hostmare.org.uk).
 
